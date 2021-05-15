@@ -13,5 +13,5 @@ Entrez les programmes/logiciels/ressources que vous avez utilisé pour développ
   - [Bootstrap](https://getbootstrap.com/) - Framework CSS
   
 ## Information complémentaire
-Un site d'administration (backoffice) y est associé :
+Backoffice associé au projet Oshop:
 * [Oshop Backoffice]()
